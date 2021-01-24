@@ -1,2 +1,2 @@
-# -SBMI-Bra-o-robot-palletizer
+# -SBMI-Braco-robot-palletizer
 Tomem, crianças da FEUP.
